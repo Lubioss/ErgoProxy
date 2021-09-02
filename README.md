@@ -1,4 +1,4 @@
-# Simple Proxy for Ergo
+# Simple Proxy
 
 The current version of ergo only support http request and response.
 
