@@ -30,9 +30,7 @@ See other options by running with `-h` argument. Among these arguments, listenin
 ```
 npm install
 ```
-3. Pass arguments to [`client.js`](https://github.com/mhssamadani/ErgoStratumProxy/blob/main/client.js):
-
-![](https://raw.githubusercontent.com/mhssamadani/ErgoStratumProxy/main/img/arguments.png)
+3. Pass arguments to [`client.js`](https://github.com/mhssamadani/ErgoStratumProxy/blob/main/client.js)
 
 4. Start proxy
 ```
